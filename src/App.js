@@ -1,5 +1,5 @@
 import "./styles.css";
-import MyComponent from "./MyComponents/new-mycomponent.js";
+import MyComponent from "./myComponents/new-mycomponent.js";
 
 export default function App() {
   return (
